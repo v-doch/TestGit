@@ -8,6 +8,7 @@ int _tmain(int argc, _TCHAR* argv[])
 {
 	std::cout << "hello world" << std::endl;
 	std::cout << "v-doch" << std::endl;
+	std::cout << " ";
 	return 0;
 }
 
